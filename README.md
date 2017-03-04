@@ -9,3 +9,5 @@ No counting necessary!
 #TrumpBump Game
 
 https://studio.code.org/projects/applab/NfSpwvAgOLpUVB5XLL6f4A
+
+<iframe width="352" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/NfSpwvAgOLpUVB5XLL6f4A/embed"></iframe>
